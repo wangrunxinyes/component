@@ -1,5 +1,5 @@
 {
-    "name": "easyswoole/component",
+    "name": "wangrunxinyes/easyswoole-component",
     "type": "library",
     "description": "easyswoole component",
     "keywords" : ["swoole", "framework", "async","easyswoole"],
